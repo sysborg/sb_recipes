@@ -1,7 +1,7 @@
-# sb_recipes
+# SB_Recipes 1.0
 Sysborg's Recipes is a opensource to store your familie's recipes. Taking them off the paper and transporting them directly to the digital world!
 In the digital world your recipe will be always readable and acessible at any point in the world. By your cellphone or your computer you will access and
-dive your family into a real good experience.
+drive your family into a real good experience.
 
 The Recipe 1.0 idea.
 
