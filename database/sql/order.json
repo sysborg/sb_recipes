@@ -1,0 +1,10 @@
+[
+  'table_public_gallery.sql',
+  'table_public_filecenter.sql',
+  'table_public_user.sql',
+  'table_public_history.sql',
+  'table_public_ingredient.sql',
+  'table_public_measurement_unit.sql',
+  'table_public_recipe.sql',
+  'table_public_recipe_ingredients.sql'
+]
