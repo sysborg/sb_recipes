@@ -12,3 +12,5 @@ Now let's start building the Relational Database's diagram to start to build the
 The Recipe 1.0 idea.
 
 ![Recipe_1 0](https://user-images.githubusercontent.com/59512284/122843869-c8e1af00-d2d6-11eb-85ee-887d07a9b671.png)
+
+![logo-sysbrog](https://user-images.githubusercontent.com/59512284/122850956-7d360200-d2e4-11eb-95e0-cbdc983fbe00.jpg)
